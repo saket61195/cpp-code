@@ -1,0 +1,30 @@
+{
+  "folders": [
+    {
+      "path": "Hackerrank"
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#5fcf8a",
+      "activityBar.activeBorder": "#936cd3",
+      "activityBar.background": "#5fcf8a",
+      "activityBar.foreground": "#15202b",
+      "activityBar.inactiveForeground": "#15202b99",
+      "activityBarBadge.background": "#936cd3",
+      "activityBarBadge.foreground": "#15202b",
+      "sash.hoverBorder": "#5fcf8a",
+      "statusBar.background": "#3ac16e",
+      "statusBar.foreground": "#15202b",
+      "statusBarItem.hoverBackground": "#2e9a58",
+      "statusBarItem.remoteBackground": "#3ac16e",
+      "statusBarItem.remoteForeground": "#15202b",
+      "tab.activeBorder": "#5fcf8a",
+      "titleBar.activeBackground": "#3ac16e",
+      "titleBar.activeForeground": "#15202b",
+      "titleBar.inactiveBackground": "#3ac16e99",
+      "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#3ac16e"
+  }
+}

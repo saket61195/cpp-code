@@ -1,0 +1,27 @@
+{
+  "folders": [
+    {
+      "path": "c++_by_harray"
+    },
+    {
+      "path": "test_example"
+    },
+    {
+      "path": "c++_by_saurabh"
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "iostream": "cpp",
+      "iosfwd": "cpp",
+      "iomanip": "cpp",
+      "optional": "cpp",
+      "limits": "cpp",
+      "new": "cpp",
+      "*.tcc": "cpp",
+      "cmath": "cpp",
+      "type_traits": "cpp",
+      "utility": "cpp"
+    }
+  }
+}

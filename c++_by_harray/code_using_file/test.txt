@@ -1,0 +1,2 @@
+this is another methode to write in file
+here we use open() function
