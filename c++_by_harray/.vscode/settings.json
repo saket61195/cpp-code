@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "iosfwd": "cpp",
+    "iomanip": "cpp",
+    "optional": "cpp",
+    "limits": "cpp",
+    "new": "cpp",
+    "*.tcc": "cpp",
+    "cmath": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp"
+  }
+}
